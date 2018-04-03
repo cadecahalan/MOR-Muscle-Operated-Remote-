@@ -1,8 +1,6 @@
 # MOR (Muscle Operated Remote)
 Final Project for DES INV 23
 
-Project Title: MOR (Muscle Operated Remote)
-
 Our team proposes to create an interactive game (similar to the classic “Helicopter” concept) using an EMG remote (MyoWare Sensor).
 
 ## Summary
@@ -38,9 +36,13 @@ Getting the technology to work consistently without glitching, as well as obtain
 ## Timeline
 
 Week 1: Write proposal
+
 Week 2: Get parts and begin coding the technology. Start coding the interface of the game. Start sketching the design of the shell.
+
 Week 3: Make prototype for the physical shell for the controller that acts as a remote (fits on human arm). Complete the interface of the game
+
 Week 4: Have the shell/remote complete (including the tech). Make sure everything works consistently.
+
 Week 5: Present!
 
 ## References and Links
