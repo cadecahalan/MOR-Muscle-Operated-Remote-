@@ -35,7 +35,7 @@ Copper Tape
 
 ## Inputs/Outputs/Date
 
------
+Humans --> copper tape --> currents --> closed cirtuit --> light/data
 
 ## Challenges
 
