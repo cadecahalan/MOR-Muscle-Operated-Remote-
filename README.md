@@ -30,6 +30,8 @@ Contacts
 
 Electronics case
 
+Copper Tape
+
 
 ## Inputs/Outputs/Date
 
@@ -37,7 +39,7 @@ Electronics case
 
 ## Challenges
 
-Getting the technology to work consistently without glitching, as well as obtaining consistent data using the MyoWare. Creating an interface that works between the remote and the game. Additionally, getting all the components to fit into a remote/shell that can fit onto a human arm in a beautiful way.
+Figuring out the design/layout of the interface. Getting the technology to work (closing circuits and using humans as resistors). Making it portable.
 
 ## Timeline
 
