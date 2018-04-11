@@ -1,33 +1,39 @@
-# MOR (Muscle Operated Remote)
+# Human Breadboard Twister
 Final Project for DES INV 23
 
-Our team proposes to create an interactive game (similar to the classic “Helicopter” concept) using an EMG remote (MyoWare Sensor).
+Our team proposes to create an interactive game (similar to the twister) that helps people learn to circuitry.
 
 ## Summary
 
-The goal of this project is to create a game in which the remote is your body. Using EMG technology, we want to create an interactive remote that responds to electric activity in the users muscle. Additionally, using knowledge we learned from Java, we want to create an addictive, simple, and challenging (as you progress) game in which you can compete for a high score, similar to the classic game Helicopter. Using EMG input data, each time you flex your forearm, the character will move up, but gravity is constantly acting on it. Since this game requires flexing of muscle, it would be interesting to see if players can play as long without a traditional remote (which would use less human activity and energy).
-
-The main goal of our project is to change the way people play video games and get people to use more energy and their body to play a game (compared to traditional remotes).
+Using humans (3-4) to make a closed circuit using CapSense in a twister inspired way. We want to create something that forces interaction between people in an educational/fun way (and would be super funny to see older people in professional attire play at the final showcase). We intend to design an interface to play the game (such as a monitor that says what to do and how long to do it). We will pre-design 6 circuits that will be randomly selected for users to play and complete. When people close the circuits, they will be rewarded with a happy noise and whatever the circuit is designed to do (for example, something simple like light up an LED) or a buzzer if they fail to complete the circuit in time or incorrectly.
+ 
+The goal of this project is to make something that is inherently impersonal and monotonous and make it human and interactive for learning purposes. Additionally, we could see this project being used at companies for ice-breakers.
 
 ## Component Parts
 
-MyoWare Muscle Sensor (https://www.sparkfun.com/products/13723)
+adafruit :
+https://www.adafruit.com/?q=7%20seg red, blue, or green, LED lit .56in tall $3.95 +ship
 
-Arduino Uno
+LED matrix:
 
-Computer/p5 alpha editor
+https://www.adafruit.com/product/607 rgb, 64X32 LEDS, 6mm pitch,
 
-Human being
+Kinkos, staples banners ~$60-80 depending on size/material. Different lead times, unclear until order time.
+
+https://design.staples.com/banner-configurator#/Size?Type=Outdoor%7CProductTypeOption&Material=Outdoor%20Scrim%7CProductTypeOption&Orientation=Landscape%7CSearchAttribute
+
+https://www.bannersonthecheap.com/PowerDesign.aspx?T=466637372B524E322B56724D694E73636839344D52513D3D
+
+Wires
+
+Contacts
+
+Electronics case
+
 
 ## Inputs/Outputs/Date
 
-Muscle Activity -> EMG electrode -> MyoWare ->  Arduino -> frequency/value -> Database -> movement in game (dictated by “if statements”)
-
--> input
-
--> output
-
--> data
+-----
 
 ## Challenges
 
@@ -37,20 +43,14 @@ Getting the technology to work consistently without glitching, as well as obtain
 
 Week 1: Write proposal
 
-Week 2: Get parts and begin coding the technology. Start coding the interface of the game. Start sketching the design of the shell.
+Week 2: Get parts and begin designing circuits. Finalize concept
 
-Week 3: Make prototype for the physical shell for the controller that acts as a remote (fits on human arm). Complete the interface of the game
+Week 3: Make prototype for the game that can be tested.
 
-Week 4: Have the shell/remote complete (including the tech). Make sure everything works consistently.
+Week 4: Complete the final product.
 
 Week 5: Present!
 
 ## References and Links
 
-https://www.youtube.com/watch?v=azIUC5YpX24
-
-https://www.youtube.com/watch?v=m1VXBTIe6kQ
-
-https://www.youtube.com/watch?v=1LjE07z5r7c
-
-https://www.youtube.com/watch?v=Q0JpNN6IWhg
+-----
