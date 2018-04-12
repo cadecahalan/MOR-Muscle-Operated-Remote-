@@ -5,9 +5,9 @@ Our team proposes to create an interactive game (similar to the twister) that he
 
 ## Summary
 
-Using humans (3-4) to make a closed circuit using humans as resistors in a twister inspired way. We want to create something that forces interaction between people in an educational/fun way (and would be super funny to see older people in professional attire play at the final showcase). We intend to design an interface to play the game (such as a monitor that says what to do and how long to do it). We will pre-design 6 circuits that will be randomly selected for users to play and complete. When people close the circuits, they will be rewarded with a happy noise and whatever the circuit is designed to do (for example, something simple like light up an LED) or a buzzer if they fail to complete the circuit in time or incorrectly.
+For our project we are designing 3 devices that only work when (3-4) users step on buttons in order of the flow on an interactive map. In this learning game, the users will learn how to create a circuit for a given output (such as a light display system, a motorized object, and a lcd display). On the matt, there will be images of the electrical components needed to activate the object. The users must step on the components in the order of operation to get the machine to work.
  
-The goal of this project is to make something that is inherently impersonal and monotonous and make it human and interactive for learning purposes. Additionally, we could see this project being used at companies for ice-breakers.
+The goal of this project is to make something that is inherently impersonal and monotonous and make it human and interactive for learning purposes. 
 
 ## Component Parts
 
