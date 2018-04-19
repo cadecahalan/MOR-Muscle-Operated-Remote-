@@ -1,41 +1,47 @@
-# Human Breadboard Twister
+# Circuit Twister
 Final Project for DES INV 23
 
 Our team proposes to create an interactive game (similar to the twister) that helps people learn to circuitry.
 
 ## Summary
 
-For our project we are designing 3 devices that only work when (3-4) users step on buttons in order of the flow on an interactive map. In this learning game, the users will learn how to create a circuit for a given output (such as a light display system, a motorized object, and a lcd display). On the matt, there will be images of the electrical components needed to activate the object. The users must step on the components in the order of operation to get the machine to work.
- 
-The goal of this project is to make something that is inherently impersonal and monotonous and make it human and interactive for learning purposes. 
+For our project, we are designing a electrical twister mat responds to CapSense. The objective of the game is to get users to select buttons with designated elctrical components that complete a given ciruit (based on the game). 
+
+The game has multiple levels of difficulty
+Each level requires a certain amount of electrical components to make something electrical work (turn on LED, servo motor, etc.)
+Each level requires more parts; therefore, making the twister game more difficult and requires more people to select all buttons
+Once user/s select all buttons, a noise will sound to tell them that they completeted the circuit
+In order to complete a level, all buttons must be pressed for at least 10-15 seconds, making it more difficult to hold the position
+
+The main goal of the project is to introduce people to electrical components involved in ciruitry in a fun and creative way.
+
+## Game Levels
+
+1. LED (Power 3V, ground, resistor, LED)
+2. Servo Motor (Power 6V, ground, Arduino, resistor, motor)
+3. Brightness Data (3V, ground, arduino, Photoresistor, resistor)
+4. LED Fader (Power 3V, ground, resistor, potentiometer, LED, arduino)
+5. DC Motor (Power 6V, ground, transistor, DC motor, diod, resistor, arduino)
+
+
+Total: Power 3V, Power 6V, 2 resistor, LED, Arduino, motor, photoresistor, potentiometer, transistor, DC Motor, diod
+12 items total
 
 ## Component Parts
 
-adafruit :
-https://www.adafruit.com/?q=7%20seg red, blue, or green, LED lit .56in tall $3.95 +ship
-
-LED matrix:
-
-https://www.adafruit.com/product/607 rgb, 64X32 LEDS, 6mm pitch,
-
-Kinkos, staples banners ~$60-80 depending on size/material. Different lead times, unclear until order time.
-
-https://design.staples.com/banner-configurator#/Size?Type=Outdoor%7CProductTypeOption&Material=Outdoor%20Scrim%7CProductTypeOption&Orientation=Landscape%7CSearchAttribute
-
-https://www.bannersonthecheap.com/PowerDesign.aspx?T=466637372B524E322B56724D694E73636839344D52513D3D
-
-Wires
-
-Contacts
-
-Electronics case
-
-Copper Tape
+Feather
+Copper
+Foam
+LEDs
+Wire
+Tiny speaker
+Canvas/Mat (game-pad)
+Printed out graphics for each level (with answers on back)
 
 
 ## Inputs/Outputs/Date
 
-Humans --> copper tape --> currents --> closed cirtuit --> light/data
+Humans --> copper tape --> closed cirtuit --> light/data --> Wait 15 seconds --> BING!
 
 ## Challenges
 
